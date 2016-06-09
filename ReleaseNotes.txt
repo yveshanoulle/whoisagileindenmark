@@ -1,0 +1,16 @@
+-05-2016, Release 3
+stats: 12 people, 91 pages, 13505 words.
+• added new character: 
+• slightly updated front cover page
+• added local country book “Who is agile in India” into “Other books” section. For more info see: https://leanpub.com/whoisagileinindia
+
+
+10-03-2016, Release 2
+stats: 12 people, 91 pages, 13505 words.
+• added new character: Tatiana Lazebnyk
+• added “Who Called Whom” section
+• added “Map of people” section
+• updated front cover page
+
+29-02-2016, Release 1
+stats: 11 people, 82 pages, 12774 words.
