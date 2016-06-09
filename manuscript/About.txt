@@ -1,0 +1,9 @@
+#What is this book about? {#About}
+
+There is so-called “Agile” movement. What is it about..?
+
+The whole story started more than 20 years ago with growing number of pioneers trying alternative new methods of organizing knowledge work in software development. At some point in time (February 2001) some of them gathered together to discuss what their approaches has in common. Term “Agile” was coined then as well as [Manifesto for Agile Software Development](http://agilemanifesto.org/) consisting of 4 values and [12 principles](http://agilemanifesto.org/principles.html). Over time, this movement has gone far beyond just software development. As Rowan Bunning put it in a book “Who is agile? Volume 1”: “… the Agile movement in software is part of a larger movement towards more humane and dynamic workplaces in the 21st century.” If you’d like deeper dive into the current state of agile (15 years after manifest was signed), I can recommend reading a great article by Joshua Kerievsky called [Modern Agile](https://www.industriallogic.com/blog/modern-agile/).
+
+Books series called “Who is agile?” is about practitioners who contributed to this movement. This particular book is a book of stories and personal reflections on journeys of people stumbled on agile in Ukraine, from Ukraine or somehow connected to Ukraine. If you’d like to know more about series you can read [Chapter “Who is series and this book story”](#OtherBooks) at the end of this book.
+
+Enjoy your reading!

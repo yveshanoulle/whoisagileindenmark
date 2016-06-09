@@ -1,0 +1,27 @@
+#What are we reading? {#Library}
+
+This is a consolidated list of books mentioned in the answers of all people from the book.
+
+* [“Reinventing Organization” by Frederic Laloux](http://reinventingorganizations.com)
+* [“User Story Mapping” by Jeff Patton](http://shop.oreilly.com/product/0636920033851.do)
+* [“Antifragile” by Nassim Taleb](http://www.amazon.com/Antifragile-Things-That-Disorder-Incerto/dp/0812979680)
+* [“Scripts People Live” by Claude Steiner](http://www.amazon.com/Scripts-People-Live-Transactional-Analysis/dp/0802132103)
+* [“Continuous Delivery” by Jez Humble, David Farley](http://www.amazon.com/Continuous-Delivery-Deployment-Automation-Addison-Wesley/dp/0321601912/)
+* [“How Google Tests Software” by James A. Whittaker and Jason Arbon](http://www.amazon.com/Google-Tests-Software-James-Whittaker/dp/0321803027/)
+* [“Scrum and XP from the Trenches - 2nd Edition” by Henrik Kniberg](http://www.infoq.com/minibooks/scrum-xp-from-the-trenches-2)
+* [“The Dream Team’s Nightmare” by Portia Tung](https://pragprog.com/book/ptdream/the-dream-team-nightmare)
+* [“Switch” by Chip & Dan Heath](http://heathbrothers.com/books/switch/)
+* [“Software in 30 days” by y Ken Schwaber and Jeff Sutherland](http://www.amazon.com/Software-30-Days-Customers-Competitors/dp/1118206665/)
+* [“Becoming a Technical Leader” by Gerald Weinberg](http://www.amazon.com/Becoming-Technical-Leader-Gerald-Weinberg-ebook/dp/B004J4VV3I)
+* [“Secrets of a Buccaneer-Scholar” by James Bach](http://www.amazon.com/Secrets-Buccaneer-Scholar-Self-Education-Pursuit-Passion/dp/1439109095)
+* [“Elon Musk” by Ashlee Vance](http://www.amazon.com/Elon-Musk-SpaceX-Fantastic-Future/dp/0062301233)
+* [“Founders at Work” by Jessica Livingston](http://www.amazon.com/Founders-Work-Stories-Startups-Early/dp/1430210788/)
+* [“The Psychology of Software Testing” by John Stevenson](https://leanpub.com/thepsychologyofsoftwaretesting)
+* [“The Art Of Strategy” by Avinash Dixit and Barry Nalebuff](http://www.amazon.com/Art-Strategy-Theorists-Success-Business/dp/0393337170/)
+* ["Tribal Leadership" by Dave Logan, John King, Halee Fischer-Wright](http://www.triballeadership.net/book)
+* [“The Willpower Instinct: How Self-Control Works, Why It Matters, and What You Can Do to Get More of It” by Kelly McGonigal](http://www.amazon.com/Willpower-Instinct-Self-Control-Works-Matters/dp/1583335080/)
+* [“Wired to Connect: The Surprising Link Between Brain Science and Strong, Healthy Relationships” by Amy Banks](http://www.amazon.com/Wired-Connect-Surprising-Between-Relationships-ebook/dp/B01071REJQ/)
+* [“Dreamland: Adventures in the Strange Science of Sleep” by David K. Randall](http://www.amazon.com/Dreamland-Adventures-Strange-Science-Sleep/dp/0393345866/)
+* [“Leading from the Emerging Future” by Otto Scharmer](http://www.ottoscharmer.com/publications/books)
+
+|  |

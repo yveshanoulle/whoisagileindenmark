@@ -1,0 +1,57 @@
+#How can you contact these people? {#Contacts}
+
+
+This list contains links to blogs, social media, etc of people from the book.
+
+| |
+
+{width="wide"}
+|First name Last name |Links|
+|---------------------|-----|
+|Alexey Krivitsky     |![](images/icons/wordpress.png) [agiletrainings.eu](http://agiletrainings.eu)|
+|---------------------|-----|
+|Artem Serdyuk        |![](images/icons/facebook.png) [ekartem](https://www.facebook.com/ekartem)|
+|                     |![](images/icons/linkedin.png) [aserdyuk](https://ua.linkedin.com/in/aserdyuk)|
+|                     |![](images/icons/wordpress.png) [A blog of one of my products](http://blog.effectcup.com/)|
+|---------------------|-----|
+|Albina Popova        |![](images/icons/xing.png) [Albina_Popova](https://www.xing.com/profile/Albina_Popova)|
+|                     |![](images/icons/linkedin.png) [Albina Popova](https://de.linkedin.com/pub/albina-popova/a/b49/a5b)|
+|---------------------|-----|
+|Alexey Klyuchnik     |![](images/icons/email.png) [e-mail](mailto:a.klyuchnik@bpmonline.com)|
+|                     |![](images/icons/facebook.png) [aleksey.klyuchnik](https://www.facebook.com/aleksey.klyuchnik)|
+|---------------------|-----|
+|Mikalai Alimenkou    |![](images/icons/wordpress.png) [xpinjection.com](http://xpinjection.com/)|
+|                     |![](images/icons/twitter.png) [@xpinjection](https://twitter.com/xpinjection)|
+|                     |![](images/icons/email.png) [mikalai.alimenkou@xpinjection.com](mailto:mikalai.alimenkou@xpinjection.com)|
+|---------------------|-----|
+|Timofey Yevgrashyn   |![](images/icons/wordpress.png) [tim.com.ua](http://tim.com.ua)|
+|                     |![](images/icons/email.png) [tim@tim.com.ua](mailto:tim@tim.com.ua)|
+|                     |![](images/icons/facebook.png) [yevgrashyn](https://www.facebook.com/yevgrashyn)|
+|                     |![](images/icons/linkedin.png) [yevgrashyn](https://www.linkedin.com/in/yevgrashyn)|
+|---------------------|-----|
+|Vyacheslav Moskalenko|![](images/icons/wordpress.png) [luxoft.com/blog/vmoskalenko/](http://www.luxoft.com/blog/vmoskalenko/)|
+|                     |![](images/icons/linkedin.png) [slavamoskalenko](https://ua.linkedin.com/in/slavamoskalenko)|
+|                     |![](images/icons/facebook.png) [vyacheslav.moskalenko.3](https://www.facebook.com/vyacheslav.moskalenko.3)|
+|                     |![](images/icons/email.png) [javamv@gmail.com](mailto:javamv@gmail.com)|
+|---------------------|-----|
+|Andrii Dzynia        |![](images/icons/wordpress.png) [adzynia.com](http://adzynia.com)|
+|                     |![](images/icons/linkedin.png) [andriidzynia](https://www.linkedin.com/in/andriidzynia)|
+|                     |![](images/icons/twitter.png) [@adzynia](https://twitter.com/adzynia)|
+|---------------------|-----|
+|Svetlana Mukhina     |![](images/icons/linkedin.png) [svetlanamukhina](https://ua.linkedin.com/in/svetlanamukhina)|
+|---------------------|-----|
+|Sergey Prokhorenko   |![](images/icons/linkedin.png) [sergeyprokhorenko](https://www.linkedin.com/in/sergeyprokhorenko)|
+|---------------------|-----|
+|Nataliya Trenina     |![](images/icons/linkedin.png) [natatara](https://ua.linkedin.com/in/natatara)|
+|                     |![](images/icons/wordpress.png) [ScrumAlliance profile](https://www.scrumalliance.org/community/profile/ntrenina)|
+|                     |![](images/icons/facebook.png) [natatara](https://www.facebook.com/natatara)|
+|                     |![](images/icons/email.png) [trenina@scrumguides.com](mailto:trenina@scrumguides.com)|
+|                     |![](images/icons/wordpress.png) [SCRUMguides website](http://scrumguides.com.ua/)|
+|---------------------|-----|
+|Tatiana Lazebnyk     |![](images/icons/linkedin.png) [Tatiana Lazebnyk](https://www.linkedin.com/in/tatiana-lazebnyk-3a623b4a)|
+|---------------------|-----|
+|Dmitry Leader        |![](images/icons/facebook.png) [dmitry.leader](https://www.facebook.com/dmitry.leader)|
+|                     |![](images/icons/linkedin.png) [ahead](https://www.linkedin.com/in/ahead)|
+|---------------------|-----|
+
+| |
