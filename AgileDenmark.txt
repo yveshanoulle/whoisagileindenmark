@@ -1,11 +1,11 @@
-#Agile Ukraine community {#AgileUkraine}
+#The Agile Community in Denmark {#AgileDenmark}
 
 {width=50%,float=left}
-![](images/AgileUkraine.png)
+![](images/AgileDenmark.png)
 
-Agile Ukraine community was referred several times already in the book. Most of the characters of this book are active members of this community.
+There is an active agile community in Denmark. A number of user groups, meetups, networks and conferences make sure there is somewhere to go, if one is keen to learn more or share experiences.  
 
-If you’d like to know more about Agile in Ukraine, we can make few suggestions. 
+
 
 |  |
 
@@ -52,5 +52,5 @@ Another one is an interview that Ben Linders did with me for InfoQ for AgileEE20
 
 |  |
 
-*February-May 2016*
+*November 2016*
 
