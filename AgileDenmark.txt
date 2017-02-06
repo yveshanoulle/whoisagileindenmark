@@ -3,20 +3,53 @@
 {width=50%,float=left}
 ![](images/AgileDenmark.png)
 
-There is an active agile community in Denmark, but it can be hard to find. When agile principles and methods were adopted a lot of user groups about agile development popped up in Denmark. Today (2016) I was able to find 2 Linkedin groups about agile and 2 meetup groups who focus on agile; [one run by Allan Rennebo Jepsen](http://www.meetup.com/Agile-Copenhagen/) and one by [Morten ELvang](http://www.meetup.com/agilitylab/), both in Copenhagen. Most of the people who work as agile coaches or simply focus on agile methodologies have their own smaller networks. 
-
-
-
-There are, of course the [GOTO Conference](https://gotocon.com/), which always has some agile focused sessions in the programme, but that is only once a year. Also, we have the [Foo Cafe](http://www.foocafe.org/copenhagen) which covers many subjects, among these agile. And the annual [Annual Coach Camp Denmark](http://accdk.org/) 
-
+There is an active agile community in Denmark, but it can be hard to find for an outsider. I know a lot of people who are interestested in agile development and I know a lot of companies are using some sort of agile methodology, but there is not much out in the public. 
+When agile principles and methods were adopted a lot of user groups about agile development popped up in Denmark. 
+After the first hype was over, and agile was seen as the default choice of development paradigm, it seemed, except for a few meet-up groups and conferences, to stay within each company. 
+Most of the people who work as agile coaches or simply focus on agile methodologies have their own smaller networks.
 
 |  |
 
+**Off-line events and meet-ups**
+
+{width=40%,float=right}
+![GOTO Copenhagen](images/GOTOCopenhagenlogo.png)
+
+The biggest event in Denmark to hear about agile methodologies and challenges is [GOTO Copenhagen](https://gotocph.com/) by far. It is run by Trifork A/S, a Danish consulting company. 
+Every year it has 80-100 international speakers and every year some of them are sharing case studies and theories about working in an agile environment. 
+
+{width=40%,float=right}
+![Annual Coach Camp Denmark](images/coachcampdenmark.png)
+
+Another conference, or camp as it is called, is the [Annual Coach Camp Denmark](http://accdk.org/), where agile coaches meet to learn from each other.
+
+{width=40%,float=right}
+![Copenhagen Agile Meetup](images/CopenhagenAgilelogo.png)
+
+One way of meeting people with interest in discussing all things agile is to attend [Agile Copenhagen Meetup](https://www.meetup.com/en-AU/Agile-Copenhagen/). 
+It is run by Allan Rennebo Jepsen and everyone in the group can decide what should be discussed at the sessions. 
+Sometimes, when an international speaker is nearby, Allan invites them to give a talk at this group.
+
+{width=40%,float=left}
+![Agility Lab](images/Agility.png)
+
+Another agile user group, also in Copenhagen, is run by [Morten Elvang](http://www.meetup.com/agilitylab/) and is called Agility Lab. 
+
+
+{width=40%,float=left}
+![Foo Cafe Copenhagen](images/Foologo.png)
+
+Even though [Foo Cafe Copenhagen](http://foocafe.org/copenhagen) is not entirely about agile development, you will often see sessions about something related to agility and you will surely meet like-minded people. 
 
 
 
+=======
+
+{width=40%,float=left}
+![History of Agile in Denmark](images/historyDenmark.png)
+
+XP came to Denmark with Kent Beck via the JAOO conference in the mid-90-ties. Before that, I am sure some companies were already working in an agile way in their development, perhaps without knowing the words for it. Later, Scrum enchanted Denmark and every company with agile ideals would send their employees to get some sort of Scrum certification. Today, some companies are still onboarding with Scrum, while others are looking more into Lean and Kanban styles. 
 
 
-
-*November 2016*
+*February 2017*
 
