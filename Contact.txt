@@ -8,7 +8,7 @@ This list contains links to blogs, social media, etc of people from the book.
 {width="wide"}
 |First name Last name |Links|
 |---------------------|-----|
-|Alexey Krivitsky     |![](images/icons/wordpress.png) [agiletrainings.eu](http://agiletrainings.eu)|
+|Aino Vonge Corry     |![](images/icons/wordpress.png) [metadeveloper.com](http://metadeveloper.com)|
 |---------------------|-----|
 |Artem Serdyuk        |![](images/icons/facebook.png) [ekartem](https://www.facebook.com/ekartem)|
 |                     |![](images/icons/linkedin.png) [aserdyuk](https://ua.linkedin.com/in/aserdyuk)|
