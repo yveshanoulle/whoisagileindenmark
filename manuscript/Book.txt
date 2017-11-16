@@ -3,6 +3,8 @@ About.txt
 
 mainmatter:
 People/TomasEilsoe.txt
+People/AinoCorry.txt
+People/GitteKlitgaard.txt
 
 
 backmatter:
