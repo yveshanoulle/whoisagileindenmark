@@ -1,56 +1,55 @@
-#Agile Ukraine community {#AgileUkraine}
+#The Agile Community in Denmark {#AgileDenmark}
 
 {width=50%,float=left}
-![](images/AgileUkraine.png)
+![](images/AgileDenmark.png)
 
-Agile Ukraine community was referred several times already in the book. Most of the characters of this book are active members of this community.
-
-If you’d like to know more about Agile in Ukraine, we can make few suggestions. 
+There is an active agile community in Denmark, but it can be hard to find for an outsider. I know a lot of people who are interestested in agile development and I know a lot of companies are using some sort of agile methodology, but there is not much out in the public. 
+When agile principles and methods were adopted a lot of user groups about agile development popped up in Denmark. 
+After the first hype was over, and agile was seen as the default choice of development paradigm, it seemed, except for a few meet-up groups and conferences, to stay within each company. 
+Most of the people who work as agile coaches or simply focus on agile methodologies have their own smaller networks.
 
 |  |
 
 **Off-line events and meet-ups**
 
 {width=40%,float=right}
-![AgileEE](images/AgileEElogo.png)
+![GOTO Copenhagen](images/GOTOCopenhagenlogo.png)
 
-The biggest one is [Agile Eastern Europe conference](http://agileee.org). Agile Eastern Europe and is annual and by a fact for a long time was the largest and probably is still most well-known Agile conference in the Eastern Europe.
-The first AgileEE was held in September 2009. All the conferences were held in Kyiv (a.k.a. Kiev), Ukraine, which is nicely placed and easily reached to be a hub for Eastern European agilists. Over these years, we have had more than 1000 visitors, more than 100 speakers. Some of our speakers: Robin Dymond, Jutta Eckstein, Jurgen Appelo, J.B. Rainsberger, David Hussman, Vasco Duarte, Yves & Joppe Hanoulle, Mary Poppendieck, Henrik Kniberg, Paul Klipp, Allan Kelly, Sergey Dmitriev, Pawel Lipinski, Alistair Cockburn, Elisabeth Hendrickson, Gojko Adzic, Michael Spayd, Lyssa Adkins, Bjarte Bogsnes, Mattias Skarin, Tobias Mayer, Boris Gloger, Karl Scotland, Craig Larman, Tom Gilb, Liz Keogh, Claudio Perrone, Joshua Kerievsky, Stephen Parry, Andrea Tomasini, Pete Behrens.
-
-{width=40%,float=left}
-![XP Days Ukraine](images/XPDaysUkraine.png)
-
-Another great one is [XP Days Ukraine](http://xpdays.com.ua/) is completely devoted to Agile engineering practices. Talks on the conference will cover all main engineering practices: Unit Testing, TDD, Continuous Integration, BDD, Code Review, Refactoring, Acceptance Testing, etc. Such questions as architecture in Agile projects, technical debt, communication between developers and testers will also be discussed.
+The biggest event in Denmark to hear about agile methodologies and challenges is [GOTO Copenhagen](https://gotocph.com/) by far. It is run by Trifork A/S, a Danish consulting company. 
+Every year it has 80-100 international speakers and every year some of them are sharing case studies and theories about working in an agile environment. 
 
 {width=40%,float=right}
-![Agile BaseCamp](images/AgileBaseCamplogo.png)
+![Annual Coach Camp Denmark](images/coachcampdenmark.png)
 
-There is also [Agile BaseCamp conference](http://agilebasecamp.org/). It is smaller regional events, with primarily local speakers with some guests from abroad. This one happens not only in Kiev but other cities in Ukraine as well.
+Another conference, or camp as it is called, is the [Annual Coach Camp Denmark](http://accdk.org/), where agile coaches meet to learn from each other.
+
+{width=40%,float=right}
+![Copenhagen Agile Meetup](images/CopenhagenAgilelogo.png)
+
+One way of meeting people with interest in discussing all things agile is to attend [Agile Copenhagen Meetup](https://www.meetup.com/en-AU/Agile-Copenhagen/). 
+It is run by Allan Rennebo Jepsen and everyone in the group can decide what should be discussed at the sessions. 
+Sometimes, when an international speaker is nearby, Allan invites them to give a talk at this group.
 
 {width=40%,float=left}
-![Agile Pizza](images/AgilePizza.jpg)
+![Agility Lab](images/Agility.png)
 
-Apart from these bigger conferences, there are also smaller community meetups. I can think of at least two to mention. #AgilePizza is a community gathering over a piece of pizza. It is held once in 2 to 4 weeks, mostly in Kiev while irregularity in other cities as well. Usually, it gathers 15-60 people depending on the topic, presenter, timing of the announcement, etc. Speakers are from within of our community. One could learn more and track events on a [Facebook stream of events](https://www.facebook.com/SCRUMguides/events).
-Another one is a [Club of anonymous developers](http://xpinjection.com/uadevclub/). The very close concept with the focus on engineering practices and other engineering related questions. As you can guess, presented topics are usually technical.
+Another agile user group, also in Copenhagen, is run by [Morten Elvang](http://www.meetup.com/agilitylab/) and is called Agility Lab. 
 
-**On-line community life**
 
-{width=20%,float=right}
-![](images/Slack.png)
+{width=40%,float=left}
+![Foo Cafe Copenhagen](images/Foologo.png)
 
-The main spot for on-line activity relatively recently (in 2015) shifted into [new community platform build on #slack](https://agileukraine.slack.com/). At the moment of writing this article it has 250 members. Most of the characters of this book are present there. If you’d like to join, [feel simple form](https://goo.gl/zKmbSz).
+Even though [Foo Cafe Copenhagen](http://foocafe.org/copenhagen) is not entirely about agile development, you will often see sessions about something related to agility and you will surely meet like-minded people. 
 
-There is also [Agile Ukraine web portal](http://www.agileukraine.org/) with various announcements and news.
 
-**Bit of history**
 
-If you’d like to learn more about a state of Agile in Ukraine and its history, I can point you to several resources.
+=======
 
-One would be a presentation made at AgileEE2010 by [Tim Yevgrashyn](#TimofeyYevgrashyn) called “Ukrainian Agile: Peculiar properties of National Implementation”. [Slides are available](http://www.slideshare.net/tim.com.ua/agile-in-ukraine-5398245) and a [good report by Alexander Beletsky](http://beletsky.net/2010/10/agileee-2010-timofey-yevgrashyn-agile.html) from this presentation.
+{width=40%,float=left}
+![History of Agile in Denmark](images/historyDenmark.png)
 
-Another one is an interview that Ben Linders did with me for InfoQ for AgileEE2014, called [“Adoption of Agile in Eastern Europe”](http://www.infoq.com/news/2015/03/agile-eastern-europe).
+XP came to Denmark with Kent Beck via the JAOO conference in the mid-90-ties. Before that, I am sure some companies were already working in an agile way in their development, perhaps without knowing the words for it. Later, Scrum enchanted Denmark and every company with agile ideals would send their employees to get some sort of Scrum certification. Today, some companies are still onboarding with Scrum, while others are looking more into Lean and Kanban styles. 
 
-|  |
 
-*February-May 2016*
+*February 2017*
 

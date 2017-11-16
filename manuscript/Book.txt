@@ -2,7 +2,7 @@ frontmatter:
 About.txt
 
 mainmatter:
-People/blank.txt
+People/TomasEilsoe.txt
 
 
 backmatter:
