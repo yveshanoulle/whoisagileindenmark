@@ -1,10 +1,7 @@
 #Who is Gitte Klitgaard? {#GitteKlitgaard}
-![Aino Corry](images/GitteKlitgaard.jpg)
+![Gitte Klitgaard at a conference in Cambridge](images/GitteKlitgaard.jpg| width=100)
 
 
-
-{width=8%,float=left}
-![](images/icons/question.png)
 
 **What is something people usually don’t know about you but has influenced you in who you are?**
 
@@ -12,10 +9,7 @@ This is a hard question. Partly because so many things influenced me, partly bec
 My experience is that people do not know that I am also fragile, vulnerable, and need someone to take care of me sometimes. I write about this in blogs and on twitter, I talk about it, and still people tell me that they don’t see it. 
 They see a confident strong woman, who always helps and cares for others. And yes that is me. The fragile, vulnerable woman is also me.
 
-|  |
 
-{width=8%,float=left}
-![](images/icons/question.png)
 
 **If you had not been in IT, what would have become of you? **
 
@@ -26,10 +20,6 @@ There would be a reading corner with soft cushions and chairs, where you can loo
 
 
 
-|  |
-
-{width=8%,float=left}
-![](images/icons/question.png)
 
 **What is your biggest challenge and why is it a good thing for you?**
 
@@ -41,10 +31,7 @@ I mean: getting payed to travel to South Africa and speak about something I am p
 
 
 
-|  |
 
-{width=8%,float=left}
-![](images/icons/question.png)
 
 **What drives you?**
 
@@ -54,10 +41,6 @@ I can do a little part of this by coaching and by helping companies function bet
 
 
 
-|  |
-
-{width=8%,float=left}
-![](images/icons/question.png)
 
 **What is your biggest achievement?**
 
@@ -69,22 +52,12 @@ On my arm I have a tattoo with “Be brave “ to always remind me to have the c
 
 
 
-|  |
-
-
-{width=8%,float=left}
-![](images/icons/question.png)
-
 **What is the last book you have read?**
 
 “The Princess Bride” - loved it; loved the movie even more :)
 For non-fiction it is “Calm” from “School of life”. It is an institute in England to help develop emotional intelligence. This book is about achieving calmness - something much needed in our busy lives.
  
 
-|  |
-
-{width=8%,float=left}
-![](images/icons/question.png)
 
 **What question do you think I should also ask and what is the answer?**
 
@@ -116,10 +89,7 @@ It makes sense that the leader at a carpenter knows the craft of carpentry, but 
 
 
 
-|  |
 
-{width=8%,float=left}
-![](images/icons/question.png)
 
 **Whom do you think we should ask next?**
 
