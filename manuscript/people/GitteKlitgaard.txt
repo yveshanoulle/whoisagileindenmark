@@ -1,5 +1,5 @@
 #Who is Gitte Klitgaard? {#GitteKlitgaard}
-![Gitte Klitgaard at a conference in Cambridge](images/GitteKlitgaard.jpg| width=100width: 100%;  height: auto;)
+![Gitte Klitgaard at a conference in Cambridge](images/GitteKlitgaard.jpg width: 100%;  height: auto;)
 
 
 

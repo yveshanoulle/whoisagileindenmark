@@ -3,8 +3,7 @@
 
 I invited Tomas Eilsø to be the first agilist to be interviewed in this book, because I worked with him and got to know him as someone who is agile to the core, genuinly interested in people and able to put his foot down when leaders want to bend agile development to something unrecognizable.
 
-{width=8%,float=left}
-![](images/icons/question.png)
+
 
 **What is something people usually don’t know about you but has influenced you in who you are?**
 
@@ -47,10 +46,7 @@ I think my biggest personal challenge is the flipside of one of my strength - an
 First of all focus means down prioritizing other things. I love spending time with my family, but when i’m in the “zone” for too long my brain loses track of time and anything outside the zone. Fortunately I have a great wife who can give me the space I need, but also knows me better than I do myself. She helps create a healthy balancing loop.
 Also - I suffer pathetically when doing things like mowing the lawn, cleaning the car or doing the taxes. I'm still trying to learn how to enjoy that, or just not hate it as much. 
 
-|  |
 
-{width=8%,float=left}
-![](images/icons/question.png)
 
 **What drives you?**
 
@@ -59,35 +55,19 @@ I guess i’m driven by many things. Fortunately for most of the time I find mys
 
 At the moment I’m really passionate about scaling agile and making work in organisations more efficient - especially product development. 
 
-|  |
 
-{width=8%,float=left}
-![](images/icons/question.png)
 
 **What is your biggest achievement?**
 
 One of my biggest achievement was a startup I cofounded. I quit my software project manager job, to build a product to train fighter pilots and test air defence systems. I founded the Startup with my best friend and we set out to build and sell simulators to Air Forces around the world in competition with major defence firms. The reason I consider it a significant achievement, is that we knew that the typical time from customer interest to contract/cash in the defence industry is about 6 years. We had runway for just 1 year. We knew we needed to do things differently - thinking agile in the whole business stack. It was really tough, we failed a lot and totally underestimated the challenges. We ended up succeeding against all odds though and even won competitions using agile contracts, which was unheard of in government procurement at that time. The company is still active, although it’s not my primary focus currently.
 
-|  |
-
-{width=8%,float=left}
-![](images/icons/question.png)
-
-**Is there a piece of music that has a special meaning for you?**
 
 
-|  |
-
-{width=8%,float=left}
-![](images/icons/question.png)
 
 **What is the last book you have read?**
 
 “The Lean Machine” by Dantar P. Oosterwal, about how Harley Davidson drove growth and profitability by implementing Lean product development. 
-|  |
 
-{width=8%,float=left}
-![](images/icons/question.png)
 
 **What question do you think I should also ask and what is the answer?**
 
@@ -96,18 +76,6 @@ I think you should ask: “Which book made the most impact on you and in what wa
 
 My answer would be Peter M. Senge “The fifth discipline”. I read it a long time ago, but I still remember its impact. I guess I always intuitively felt that the interrelatedness of things often were more important than the individual things themselves. I didn’t feel I had the tools to think about it in a clever way though. This book provided the foundation for that and I still remember the profound impact the book made on how I now approach problems, view organisations, people and the world. It gave me a coherent set of ideas on how to think about interrelated things and the flawed thinking processes I share with most other homosabiens.
 
-|  |
-
-{width=8%,float=left}
-![](images/icons/question.png)
-
-**How would you like the agile community in Denmark to evolve?**
-
-
-|  |
-
-{width=8%,float=left}
-![](images/icons/question.png)
 
 **Aino’s Question: If you could get one wish granted about our software industry what would you wish for?**
 
@@ -125,16 +93,12 @@ Fortunately it seems like the wave of change is rolling, but my wish is that we 
 
 |  |
 
-{width=8%,float=left}
-![](images/icons/question.png)
+
 
 **Whom do you think we should ask next?**
 
 
-|  |
 
-{width=8%,float=left}
-![](images/icons/question.png)
 
 **How could people learn more about you and get in touch with you?**
 
