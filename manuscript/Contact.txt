@@ -10,9 +10,9 @@ This list contains links to blogs, social media, etc of people from the book.
 |---------------------|-----|
 |Aino Vonge Corry     |![](images/icons/wordpress.png| width=10) [metadeveloper.com](http://metadeveloper.com)|
 |                     |![](images/icons/linkedin.png| width=10) [Aino Corry](https://www.linkedin.com/in/aino-vonge-corry-9a23801/)|
-|                     |![](images/icons/twitter.png) [@apaipi](https://twitter.com/apaipi)|
-<!--|                     |![](images/icons/facebook.png| width=10) [Aino Corry - Metadeveloper](https://www.facebook.com/Metadeveloper-239510946125387/)|-->
-|                     |![](images/icons/email.png) [aino@metadeveloper.com](mailto:[aino@metadeveloper.com)|
+|                     |![](images/icons/twitter.png| width=10) [@apaipi](https://twitter.com/apaipi)|
+|                     |![](images/icons/facebook.png| width=10) [Aino Corry - Metadeveloper](https://www.facebook.com/Metadeveloper-239510946125387/)|
+|                     |![](images/icons/email.png| width=10) [aino@metadeveloper.com](mailto:[aino@metadeveloper.com)|
 |---------------------|-----|
 
 
