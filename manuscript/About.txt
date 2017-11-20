@@ -6,6 +6,6 @@ The whole story started more than 20 years ago with growing number of pioneers t
 
 Books series called “Who is agile?” is about practitioners who contributed to this movement. This particular book is a book of stories and personal reflections on journeys of people stumbled on agile in Denmark, from Denmark or somehow connected to Denmark. If you’d like to know more about series you can read [Chapter “Who is series and this book story”](#OtherBooks) at the end of this book. 
 
-The reason why this book was initiated stems back to a meeting between Yves and Aino in Poland for AgileEurope2016. Aino gave two presentations, one of these was attended by Yves and afterwards he asked me if I would be reponsible for finding some people who could be the editors for the Danish WHoisAgile book.
+The reason why this book was initiated stems back to a meeting between Yves and Aino in Poland for AgileEurope2016. Aino gave two presentations, one of these was attended by Yves and afterwards he asked her if she would be reponsible for finding some people who could be the editors for the Danish WHoisAgile book.
 
 Enjoy your reading!

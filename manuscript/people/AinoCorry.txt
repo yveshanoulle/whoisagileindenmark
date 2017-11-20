@@ -1,10 +1,8 @@
 #Who is Aino Vonge Corry? {#AinoCorry}
 ![Aino Corry](images/AinoCorry.jpg)
 
-I decided to make an entry myself, since Yves asked me to be the editor for this book, I interpreted it an invitation to write about myself. 
+Since Yves asked me to be the editor for this book, I interpreted it an invitation to write about myself. 
 
-{width=8%,float=left}
-![](images/icons/question.png)
 
 **What is something people usually don’t know about you but has influenced you in who you are?**
 
@@ -24,8 +22,7 @@ So something that was a very bad experience turned out to be the moment where I 
 Whenever things are difficult I think back at that day, where I felt so lost and useless and yet turned out to be useful. 
 |  |
 
-{width=8%,float=left}
-![](images/icons/question.png)
+
 
 **If would not be doing the job you are doing now, what would have become of you?**
 
@@ -38,8 +35,7 @@ I think.
 
 |  |
 
-{width=8%,float=left}
-![](images/icons/question.png)
+
 
 **What is your biggest challenge and why is it a good thing for you?**
 
@@ -52,8 +48,7 @@ It is still a challenge every day and nowadays in a different way, since people 
 
 |  |
 
-{width=8%,float=left}
-![](images/icons/question.png)
+
 
 **What drives you?**
 
@@ -64,8 +59,7 @@ And making them laugh, but that is another story.
 
 |  |
 
-{width=8%,float=left}
-![](images/icons/question.png)
+
 
 **What is your biggest achievement?**
 
@@ -92,8 +86,7 @@ In particular I like the beginning when the prince train to become an assassin.
 
 |  |
 
-{width=8%,float=left}
-![](images/icons/question.png)
+
 
 **What question do you think I should also ask and what is the answer?**
 
@@ -107,8 +100,7 @@ Laughing, always laughing .
 
 |  |
 
-{width=8%,float=left}
-![](images/icons/question.png)
+
 
 **How would you like the agile community in Denmark to evolve?**
 
@@ -118,8 +110,7 @@ Let us help each other be the best we can be and let agility be default.
 
 |  |
 
-{width=8%,float=left}
-![](images/icons/question.png)
+
 
 **If you could get one wish granted about our software industry what would you wish for?**
 
@@ -127,8 +118,7 @@ That everybody was able to respect each other for what they are, what they can d
 
 |  |
 
-{width=8%,float=left}
-![](images/icons/question.png)
+
 
 **Whom do you think we should ask next?**
 
