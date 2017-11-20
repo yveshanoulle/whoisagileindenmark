@@ -8,11 +8,21 @@ This list contains links to blogs, social media, etc of people from the book.
 {width="wide"}
 |First name Last name |Links|
 |---------------------|-----|
-|Aino Vonge Corry     |![](images/icons/wordpress.png) [metadeveloper.com](http://metadeveloper.com)|
+|Aino Vonge Corry     |![](images/icons/wordpress.png){ width=5% } [metadeveloper.com](http://metadeveloper.com)|
 |                     |![](images/icons/linkedin.png) [Aino Corry](https://www.linkedin.com/in/aino-vonge-corry-9a23801/)|
 |                     |![](images/icons/twitter.png) [@apaipi](https://twitter.com/apaipi)|
 |                     |![](images/icons/facebook.png) [Aino Corry - Metadeveloper](https://www.facebook.com/Metadeveloper-239510946125387/)|
 |                     |![](images/icons/email.png) [aino@metadeveloper.com](mailto:[aino@metadeveloper.com)|
+|---------------------|-----|
+|Tomas Eilsø          |![](images/icons/wordpress.png) [metadeveloper.com](http://metadeveloper.com)|
+|                     |![](images/icons/linkedin.png) [Tomas Eilsø](https://www.linkedin.com/in/tomaseilsoe/)|
+|                     |![](images/icons/twitter.png) [@EilsoeTomas](https://twitter.com/EilsoeTomas)|
+|                     |![](images/icons/email.png) [mail@tomaseilsoe.com ](mailto:[mail@tomaseilsoe.com )|
+|---------------------|-----||---------------------|-----|
+|Gitte Klitgaard      |![](images/icons/wordpress.png) [metadeveloper.com](http://metadeveloper.com)|
+|                     |![](images/icons/linkedin.png) [Gitte Klitgaard](https://www.linkedin.com/in/gitteklitgaard/)|
+|                     |![](images/icons/twitter.png) [@NativeWired](https://twitter.com/NativeWired)|
+|                     |![](images/icons/email.png) [gitte.hansen@gmail.com ](mailto:[gitte.hansen@gmail.com )|
 |---------------------|-----|
 
 
