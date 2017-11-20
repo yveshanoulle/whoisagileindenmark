@@ -1,5 +1,5 @@
 #Who is Gitte Klitgaard? {#GitteKlitgaard}
-![Gitte Klitgaard at a conference in Cambridge](images/GitteKlitgaard.jpg| width=100)
+![Gitte Klitgaard at a conference in Cambridge](images/GitteKlitgaard.jpg| width=100width: 100%;  height: auto;)
 
 
 
@@ -67,20 +67,13 @@ My goosebump moment was when a colleague said to me “You helped me go from bei
 We are all somebody - we just forget it sometimes and I help undoing that.
 
 
-|  |
-
-{width=8%,float=left}
-![](images/icons/question.png)
 
 **How would you like the agile community in Denmark to evolve?**
 
 I would like to see it be more active in collaboration with each other. It seems to me that the community is quite scattered and I find it hard to see what is happening. At the moment I am not sure it is a community - yet :)
 
 
-|  |
 
-{width=8%,float=left}
-![](images/icons/question.png)
 
 **What do you see as the biggest challenge for software development today?**
 

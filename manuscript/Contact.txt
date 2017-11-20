@@ -8,11 +8,11 @@ This list contains links to blogs, social media, etc of people from the book.
 {width="wide"}
 |First name Last name |Links|
 |---------------------|-----|
-|Aino Vonge Corry     |![](images/icons/wordpress.png) [metadeveloper.com](http://metadeveloper.com)|
+|Aino Vonge Corry     |![](images/icons/wordpress.png| width=10) [metadeveloper.com](http://metadeveloper.com)|
 |---------------------|-----|
-|Artem Serdyuk        |![](images/icons/facebook.png) [ekartem](https://www.facebook.com/ekartem)|
-|                     |![](images/icons/linkedin.png) [aserdyuk](https://ua.linkedin.com/in/aserdyuk)|
-|                     |![](images/icons/wordpress.png) [A blog of one of my products](http://blog.effectcup.com/)|
+|Artem Serdyuk        |![](images/icons/facebook.png| width=10) [ekartem](https://www.facebook.com/ekartem)|
+|                     |![](images/icons/linkedin.png| width=10) [aserdyuk](https://ua.linkedin.com/in/aserdyuk)|
+|                     |![](images/icons/wordpress.png| width=10) [A blog of one of my products](http://blog.effectcup.com/)|
 |---------------------|-----|
 |Albina Popova        |![](images/icons/xing.png) [Albina_Popova](https://www.xing.com/profile/Albina_Popova)|
 |                     |![](images/icons/linkedin.png) [Albina Popova](https://de.linkedin.com/pub/albina-popova/a/b49/a5b)|
