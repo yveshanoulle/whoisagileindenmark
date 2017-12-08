@@ -5,6 +5,7 @@ mainmatter:
 People/TomasEilsoe.txt
 People/AinoCorry.txt
 People/GitteKlitgaard.txt
+People/JesperBoeg.txt
 
 
 backmatter:
