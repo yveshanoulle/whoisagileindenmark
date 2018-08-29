@@ -1,90 +1,73 @@
-#Who is Jesper Boeg? {#JesperBoeg}
-![Jesper Boeg out in the wild with his sons](images/JesperBoeg.jpg)
+#Who is Lars Behn-Segall? {#LarsBehnSegall}
+![Lars Behn-Segall](images/LarsBS2.jpg)
 
-Since Yves asked me to be the editor for this book, I interpreted it an invitation to write about myself. 
+
+
 
 
 **What is something people usually don’t know about you but has influenced you in who you are?**
+Most people don´t know that I am a published author. No, I haven´t written a bestselling novel or a book about some esoteric agile practice. I write short stories. It´s science fiction and it´s mainly very depressing stories about loss, death, revenge, post apocalyptic bleakness or deception and torture. Yay! Happy days! This surprises my – very few – readers because I´m a pretty easy going person who likes fun and games, love, music and pretty rainbows. :-)
 
-I used to be insanely scared of heights. Overcoming that through lots of exposure has proven to me that I get to decide who I want to become not my environment or whatever traits I am born with.	 
+It´s extremely rewarding for me to be evaluated by an editor and to be able to tell stories that are interesting enough to be published. It gives me a brain boost to be printed on dead wood and placed among other wonderful stories in digital and analog collections of words.
+
 
 
 **If would not be doing the job you are doing now, what would have become of you?**
 
-Probably some kind of consultant in another field trying to help companies work more effectively. I wonder if being at the wrong place at the wrong time could have made me a consultant working with stage gate models - I hope I would have had enough brain to see through the scam but who knows? - humans are pretty easy to brainwash….
-
-
-
-|  |
+Failed musician
+Failed construction worker
+Geology dropout
+Annoying teacher with broken dreams (Please note: A,B,C,E)
+Failed author
+Wildly successful salesman with a serious drug habit caused by self loathing
 
 
 
 **What is your biggest challenge and why is it a good thing for you?**
-Making small-talk in a room full of people I do not know. Good, because it reminds me that there are always things you can learn and get better at - even if practising it is extremely uncomfortable.	
 
-
-|  |
-
-
+I am capable of filtering out a lot of stuff in my brain. Unfortunately that causes me to sometimes forget some of the really important stuff and then I mess up. But generally I somehow get things done by some magic I have not fully understood. It´s a challenge for me, but I think it has kept me from ever having been stressed to a point where it would have been damaging for my health. The important things WILL get done. Take it easy about being perfect!
 
 **What drives you?**
 
-Staying at the frontier of process-improvement trying out new concepts and adapting them to organizations and contexts. Making it more engaging and fun for people to go to work.	
-
-
-|  |
-
+Curiosity and an urge to play, confuse, tinker and surprise. I love working with people be it as a coach, teacher, mentor, sparring partner or facilitator - as long as I make a difference.
 
 
 **What is your biggest achievement?**
 
-Besides my two sons and a girlfriend that miraculously puts up with me - getting to a point in my life where I am doing what I want, at the levels that I hoped, with the freedom to decide for myself and with enough spare time to enjoy more than just my work and travel the world with my family.   
-
-
-
+Raising my kids. Ongoing mission. Debriefing probably needed in ~12-15 years.
 
 **What is the last book you have read?**
 
-Toyota Kata Culture: Building Organizational Capability and Mindset through Kata Coaching. Mike Rother
-
-
-|  |
-
+I reread “Hyperion” by Dan Simmons. And not for the last time.
 
 
 **What question do you think I should also ask and what is the answer?**
 
-Question. Why are so many Agile Coaches full of themselves?
-Answer: Because they think they stumbled on the holy grail and the rest of the world is soooooooooo far behind.
-Sadly we will wake up one day to realize that the rest of the world passed us in the fast lane if we do not keep challenging ourselves and the assumptions behind the practices and principles we use.
-There will be a time where organizations are no longer battling “traditional waterfall/stage gate” to stay ahead but “traditional Agile”	
-|  |
+Why are so few people talking about the need for training people in understanding, using and practicing being creative in agile development? 
 
-
-
-**How would you like the agile community in Denmark to evolve?**
-
-Less religion and more openness to other fields of knowledge.
-Less copying and more evolving new ideas and principles.
-Maybe even the guts to challenge some parts of Agile :-)
+Well I plan to change that everywhere I go. In almost every event or activity in an agile framework (or life) you will benefit by knowing how to inspire horizontal thinking, associative thinking, having a ‘YES’ mindset, know how to play, know when to use divergent thinking and when not to. It will be more fun, more effective and much more motivating. You are born creative and spend so much time unlearning these skills as you grow up. That´s sad. Let´s do something about. :-)
 
 
 
 **What do you see as the biggest challenge for software development today?**
-Keeping it fun and motivating for everybody to go to work everyday - in a fast paced world where all companies are at risk of being disrupted and no-one can keep up with the amount of new tools and technologies.
 
+Getting enough women onboard to save the world from the Man-Huumans.		
 
 |  |
+
+**How would you like the agile community in Denmark to evolve?**
+
+As a community where employment by a specific company plays a minor part in sharing and learning together. I think this is already the case in some of the networking activities that I attend and I love the spirit. I would also like to see a much more positive attitude towards learning about the strengths and weaknesses of different scaling frameworks like SAFe, LeSS, DAD and so on.
 
 
 
 **Whom do you think we should ask next?**
 
-Lars Behn-Segal from Bankdata comes to mind.
-He should be able to write some much cooler answers to the questions above.
+René Kragh Pedersen aka Relic, agile coach @ Bankdata
+https://www.linkedin.com/in/inspectandadapt/
+
 
 |  |
 
 
-
-*December 2017, Aarhus, Denmark*
+*February 2018 Aarhus*
