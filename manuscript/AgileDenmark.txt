@@ -12,7 +12,7 @@ Most of the people who work as agile coaches or simply focus on agile methodolog
 **Off-line events and meet-ups**
 
 {width=40%,float=right}
-![GOTO Copenhagen](images/GOTOCopenhagenlogo.png)
+![GOTO Copenhagen](images/GOTOCopenhagenlogo.jpeg)
 
 The biggest event in Denmark to hear about agile methodologies and challenges is [GOTO Copenhagen](https://gotocph.com/) by far. It is run by Trifork A/S, a Danish consulting company. 
 Every year it has 80-100 international speakers and every year some of them are sharing case studies and theories about working in an agile environment. 
