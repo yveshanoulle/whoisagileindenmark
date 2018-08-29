@@ -1,7 +1,6 @@
 #The Agile Community in Denmark {#AgileDenmark}
 
-{width=50%,float=left}
-![](images/AgileDenmark.png)
+
 
 There is an active agile community in Denmark, but it can be hard to find for an outsider. I know a lot of people who are interestested in agile development and I know a lot of companies are using some sort of agile methodology, but there is not much out in the public. 
 When agile principles and methods were adopted a lot of user groups about agile development popped up in Denmark. 
@@ -31,7 +30,7 @@ It is run by Allan Rennebo Jepsen and everyone in the group can decide what shou
 Sometimes, when an international speaker is nearby, Allan invites them to give a talk at this group.
 
 {width=40%,float=left}
-![Agility Lab](images/Agility.png)
+![Agility Lab](images/AgilityLab.png)
 
 Another agile user group, also in Copenhagen, is run by [Morten Elvang](http://www.meetup.com/agilitylab/) and is called Agility Lab. 
 
