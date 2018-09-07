@@ -27,8 +27,9 @@ This list contains links to blogs, social media, etc of people from the book.
 |                     |![](images/icons/twitter.png) [@J_Boeg](https://twitter.com/J_Boeg)|
 |                     |![](images/icons/email.png) [agileupgrade@gmail.com ](mailto:[agileupgrade@gmail.com )|
 |---------------------|-----|
-|Lars Behn-Segall |![](images/icons/linkedin.png) [Lars Behn-Segall](https://www.linkedin.com/in/lars-behn-segall-3450422/)|
-|                     |![](images/icons/email.png) [lbs@bankdata.dk](mailto:[	lbs@bankdata.dk)|
+|Lars Behn-Segall |![](images/icons/wordpress.png) [http://libe.dk](http://http://libe.dk)|
+|![](images/icons/linkedin.png) [Lars Behn-Segall](https://www.linkedin.com/in/lars-behn-segall-3450422//)|
+|                     |![](images/icons/email.png) [gnaveben@gmail.com](mailto:[gnaveben@gmail.com)|
 |---------------------|-----|
 
 
