@@ -7,15 +7,18 @@
 **What is something people usually don’t know about you but has influenced you in who you are?**
 
 
+Roleplaying and martial arts have both influenced me greatly, though it's no big secret.
+I enjoy gathering with like-minded people, in costume, with big stories to tell and varied themes to explore. In recent years, some of the lives I have briefly lived were a stone age shaman, a wild west railroad worker, a sex worker and recovering addict, a 15th century Muscovite vampire, an aging werewolf in Berlin, a freak in the devil's circus, a duke at the court of Claudius and Hamlet, and a soldier fighting to save the remains of humanity under alien invasion.
+
+Roleplaying and storytelling has helped me stay playful and exploring. It has developed my language and social skills and furthered my understanding of situations different from my own. It has also graced me with a network of friends and unlikely bonds from all over the globe. It can be a fun pastime but can also help explore or challenge parts of one's identity. I recommend it.
+
+And the martial arts. Kendo - Japanese sword fighting - was my first love. We started in 1999, and fairly soon I found myself teaching basic techniques to beginners. Kendo and other disciplines have done wonders for the bodily awareness of what was undeniably a nerdy child. I benefit from the confidence and calm it can bring, and it has played a large part in my ability to teach others. I am also pretty handy with a sword.
 
 
 **If would not be doing the job you are doing now, what would have become of you?**
 
-
-
-
-
-|  |
+It's difficult to imagine. My nickname at age 4 was "Fessor", short for professor. Large 80s glasses and too many questions. I remember being bored as a kid. And I remember as a pre-teen, getting a C64 and rarely being bored since, so computers were an obvious path for me.
+I like systems, languages, finding out how stuff works. And I like to share these with other people. In the early years I might well have become an engineer or chemist of some sort, but more and more points to me becoming a teacher.
 
 
 
@@ -23,16 +26,17 @@
 
 
 
-|  |
+I had to ask about this one and the immediate reply was “you get irritated ... well, frustrated maybe, when things are inefficient.”
+And I guess it’s true. I struggle with letting the small stuff go, and just enjoy the things that work. It’s not a productive state. The obvious upside is that I turn some of that frustration into improvements, and I take responsibility for things I wouldn’t otherwise. Which is probably how I landed myself in this line of work in the first place.
+But I practice letting go.
 
 
 
 **What drives you?**
 
-
-
-
-|  |
+Building something for other people. Watching them grow. Seeing that light bulb go off over their heads. As a developer I found a lot of satisfaction in cracking problems, building something, and seeing it out in the world. As agile coach that experience can be a bit harder to obtain because the feedback is not as immediate. My best days are those where I know I made some difference for the people around me.
+I know that what I do is good for the business but ultimately I gain my happiness from seeing happy people put good software into the world. Profit is just a means to make that happen.
+That, and a desire to know a lot about whatever I am doing. The internet is a big place and I tend to wander off.
 
 
 
@@ -40,23 +44,23 @@
 
 
 
-
+Hard question! But I think the toughest ongoing one is getting up every day hours before my body is awake, so I can contribute to grand scale congestion of the flow of traffic along with everyone else, as society mandates.
 
 
 **What is the last book you have read?**
 
 
-
-
-|  |
-
+Kult - Divinity Lost. It's a horror role-playing game exploring a contemporary world where reality is an illusion, and divine beings are fighting for control over humanity and creation.
 
 
 **What question do you think I should also ask and what is the answer?**
 
 
 
-|  |
+Would you rather that everyone always forgets your name, or that whenever you are introduced to someone you end it by yelling "AND I HAVE THE POWER"?
+
+Personally, I'd choose the power of Greyskull.
+
 
 
 
@@ -64,15 +68,19 @@
 
 
 
-Maybe even the guts to challenge some parts of Agile :-)
+I would like to see a lot more people from leadership positions getting involved. To be more precise, people like department managers, heads of IT,  that sort of thing. Of course the agile coaches, scrum masters and the like are leaders already, but from a different angle. We need the bosses, the chiefs, the czars.
+We've come far with grass roots implementations, and these days management is aware of methods like scrum and might think this is something they can install to gain an improvement. Rarely do they realise how important they themselves are. Or if they do, they find it difficult to know how best to act. And how could they? We are still steeped in the debt of command and control and all the locks and fixations that entails, and this puts an upper bound on our potential.
+To my joy, I see leaders who serve, coach, and spar actively with their employees, leaders who take strong agile decisions in support of their people, who have that fire in their eyes, and who get it. And I want more of them.
 
 
 
-**What do you see as the biggest challenge for software development today?**
+**What are you most proud of in your work?**
 
 
 
-|  |
+It's hard to pick something that truly stands out. Looking back I can see many things I would have done differently, but that said I am quite satisfied with my journey from developer to scrum master. I owe a lot to certain blogs out there, as I tried to piece together good habits and useful tools. Starting in my own team, and then moving on, suddenly I had taught and scrum mastered a company of 30 people.
+I am also very happy to be part of a movement that spreads a type of leadership I think we should have had a long time ago.
+
 
 
 
@@ -80,8 +88,9 @@ Maybe even the guts to challenge some parts of Agile :-)
 
 
 
-|  |
+Tom Mortensen for sure. We have shared several work places in the past decade and a half, and I expect we might cross paths again sooner or later. Tom and I have had many, many "do you have a moment"s that turned into half or whole hours of discussing anything and everything about how to improve whatever situation and workplace we were in, or simply about new topics that looked promising. I don't think I'm ever not interested in his opinion!
 
 
 
-*August 2018, Aarhus, Denmark*
+
+*January 2019, Aarhus, Denmark*
