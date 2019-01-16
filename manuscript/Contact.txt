@@ -31,6 +31,23 @@ This list contains links to blogs, social media, etc of people from the book.
 |![](images/icons/linkedin.png) [Lars Behn-Segall](https://www.linkedin.com/in/lars-behn-segall-3450422//)|
 |                     |![](images/icons/email.png) [gnaveben@gmail.com](mailto:[gnaveben@gmail.com)|
 |---------------------|-----|
-
+|Søren Weiss     |![](images/icons/wordpress.png) [metadeveloper.com](http://metadeveloper.com)|
+|                     |![](images/icons/linkedin.png) [Aino CorrySøren Weiss](https://www.linkedin.com/in/sorenweiss/)|
+|                     |![](images/icons/twitter.png) [@sorenweiss](https://twitter.com/sorenweiss)|
+|                     |![](images/icons/email.png) [swh@version1.biz](mailto:[swh@version1.biz)|
+|---------------------|-----|
+|Michael Libens     |![](images/icons/wordpress.png) [metadeveloper.com](http://metadeveloper.com)|
+|                     |![](images/icons/linkedin.png) [Michael Libens](https://www.linkedin.com/in/michaellibens/)|
+|                     |![](images/icons/twitter.png) [@libens_provize](https://twitter.com/libens_provize)|
+|                     |![](images/icons/email.png) [michael.loevstad.libens@arlafoods.com ](mailto:[michael.loevstad.libens@arlafoods.com )|
+|---------------------|-----|
+|René Kragh Pedersen     |![](images/icons/wordpress.png) [metadeveloper.com](http://metadeveloper.com)|
+|                     |![](images/icons/linkedin.png) [René Kragh Pedersen](https://www.linkedin.com/in/inspectandadapt/)|
+|                     |![](images/icons/email.png) [aino@metadeveloper.com](mailto:[aino@metadeveloper.com)|
+|---------------------|-----|
+|Christina Find     |![](images/icons/wordpress.png) [metadeveloper.com](http://metadeveloper.com)|
+|                     |![](images/icons/linkedin.png) [Christina Find](https://www.linkedin.com/in/christina-find-9071a9/)|
+|                     |![](images/icons/email.png) [cf@cfind.dk ](mailto:[cf@cfind.dk)|
+|---------------------|-----|
 
 | |

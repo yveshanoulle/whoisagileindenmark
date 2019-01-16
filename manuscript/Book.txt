@@ -10,7 +10,7 @@ People/LarsBehnSegall.txt
 People/SoerenWeiss.txt
 People/MichaelLibens.txt
 People/ReneKraghPedersen.txt
-
+People/ChristinaFind.txt
 
 backmatter:
 Library.txt
