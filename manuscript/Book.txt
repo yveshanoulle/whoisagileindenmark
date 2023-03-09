@@ -1,6 +1,5 @@
-frontmatter:
-About.txt
 
+About.txt
 
 People/AinoCorry.txt
 People/TomasEilsoe.txt
