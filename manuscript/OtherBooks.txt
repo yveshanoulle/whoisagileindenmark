@@ -15,6 +15,7 @@ Already published local country versions, apart from this one:
 * [“Who is agile in South Africa?”](https://leanpub.com/WhoisagileSouthAfrica) Local team: Bevan Williams, Yogini Moodley, Nkululeko Masondo, Nilesh Makan, Samantha Laing, Karen Greaves, and Suwilo
 
 
-There are also some number of other local country editions in the pipeline. Hopefully, they will be public soon.
+There is now also the video edition, that can be found on YouTube: https://bit.ly/WhoIsagile
 
 Do you like this book? Do you have some time available? Would you like to create a version for your community? Please, get in touch with [Yves](mailto:WhoIs@hanoulle.be).
+
