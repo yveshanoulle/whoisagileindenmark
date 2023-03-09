@@ -1,4 +1,4 @@
-#”Who is” series and this book story {#OtherBooks}
+# ”Who is” series and this book story {#OtherBooks}
 
 {float=right}
 ![Who is agile](images/WhoIsAgileBookCover.jpg)

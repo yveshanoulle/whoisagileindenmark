@@ -1,4 +1,4 @@
-#Map of People {#MapOfPeople}
+# Map of People {#MapOfPeople}
 
 Here you can see all characters from the book on the map:
 
