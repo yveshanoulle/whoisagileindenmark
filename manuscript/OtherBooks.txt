@@ -5,9 +5,9 @@
 
 After the growing success of the global [“Who is agile?”](https://leanpub.com/WhoIsAgile) book, it has been decided to go for local country editions. This book is an example of such edition and is not the only one.
 
-Its story started in 2015. After making a keynote at AgileEE conference, Yves looked for volunteers for Ukraine country edition. I (Kirill) thought that it is an interesting idea because our community has grown quite a lot since started and also that it is not very well known abroad. Bring some light to people who are moving agile in Ukraine was my main motivation for this book.
 
-So the book was inspired by Yves. All answers/chapters written by the corresponding person. All other articles like intro- and outro- have been drafted by Kirill Klimov. Therefore all mentions of “I” within those means Kirill.
+
+
 
 Already published local country versions, apart from this one:
 

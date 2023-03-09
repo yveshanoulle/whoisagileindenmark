@@ -2,13 +2,19 @@ frontmatter:
 About.txt
 
 mainmatter:
-People/blank.txt
-
+People/AinoCorry.txt
+People/TomasEilsoe.txt
+People/GitteKlitgaard.txt
+People/JesperBoeg.txt
+People/LarsBehnSegall.txt
+People/MichaelLibens.txt
+People/ReneKraghPedersen.txt
+People/ChristinaFind.txt
 
 backmatter:
 Library.txt
-WhoCalledWhom.txt
-MapOfPeople.txt
+<!--//:WhoCalledWhom.txt-->
+<!--//:MapOfPeople.txt-->
 Contact.txt
 AgileDenmark.txt
 Feedback.txt

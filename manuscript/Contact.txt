@@ -8,50 +8,41 @@ This list contains links to blogs, social media, etc of people from the book.
 {width="wide"}
 |First name Last name |Links|
 |---------------------|-----|
-|Alexey Krivitsky     |![](images/icons/wordpress.png) [agiletrainings.eu](http://agiletrainings.eu)|
+|Aino Vonge Corry     |![](images/icons/wordpress.png) [metadeveloper.com](http://metadeveloper.com)|
+|                     |![](images/icons/linkedin.png) [Aino Corry](https://www.linkedin.com/in/aino-vonge-corry-9a23801/)|
+|                     |![](images/icons/twitter.png) [@apaipi](https://twitter.com/apaipi)|
+|                     |![](images/icons/facebook.png) [Aino Corry - Metadeveloper](https://www.facebook.com/Metadeveloper-239510946125387/)|
+|                     |![](images/icons/email.png) [aino@metadeveloper.com](mailto:[aino@metadeveloper.com)|
 |---------------------|-----|
-|Artem Serdyuk        |![](images/icons/facebook.png) [ekartem](https://www.facebook.com/ekartem)|
-|                     |![](images/icons/linkedin.png) [aserdyuk](https://ua.linkedin.com/in/aserdyuk)|
-|                     |![](images/icons/wordpress.png) [A blog of one of my products](http://blog.effectcup.com/)|
+|Tomas Eilsø          |![](images/icons/linkedin.png) [Tomas Eilsø](https://www.linkedin.com/in/tomaseilsoe/)|
+|                     |![](images/icons/twitter.png) [@EilsoeTomas](https://twitter.com/EilsoeTomas)|
+|                     |![](images/icons/email.png) [mail@tomaseilsoe.com ](mailto:[mail@tomaseilsoe.com )|
+|---------------------|-----||---------------------|-----|
+|Gitte Klitgaard      |![](images/icons/linkedin.png) [Gitte Klitgaard](https://www.linkedin.com/in/gitteklitgaard/)|
+|                     |![](images/icons/twitter.png) [@NativeWired](https://twitter.com/NativeWired)|
+|                     |![](images/icons/email.png) [gitte.hansen@gmail.com ](mailto:[gitte.hansen@gmail.com )|
 |---------------------|-----|
-|Albina Popova        |![](images/icons/xing.png) [Albina_Popova](https://www.xing.com/profile/Albina_Popova)|
-|                     |![](images/icons/linkedin.png) [Albina Popova](https://de.linkedin.com/pub/albina-popova/a/b49/a5b)|
+|Jesper Boeg      |![](images/icons/wordpress.png) [http://agileupgrade.com/](http://http://agileupgrade.com/)|
+|                     |![](images/icons/linkedin.png) [Jesper Boeg](https://www.linkedin.com/in/jesperboeg/)|
+|                     |![](images/icons/twitter.png) [@J_Boeg](https://twitter.com/J_Boeg)|
+|                     |![](images/icons/email.png) [agileupgrade@gmail.com ](mailto:[agileupgrade@gmail.com )|
 |---------------------|-----|
-|Alexey Klyuchnik     |![](images/icons/email.png) [e-mail](mailto:a.klyuchnik@bpmonline.com)|
-|                     |![](images/icons/facebook.png) [aleksey.klyuchnik](https://www.facebook.com/aleksey.klyuchnik)|
+|Lars Behn-Segall |![](images/icons/wordpress.png) [http://www.kreagil.dk](http://www.kreagil.dk|
+|                     |![](images/icons/linkedin.png) [Lars Behn-Segall](https://www.linkedin.com/in/lars-behn-segall-3450422//)|
+|                     |![](images/icons/email.png) [lars@kreagil.dk](mailto:[lars@kreagil.dk)|
 |---------------------|-----|
-|Mikalai Alimenkou    |![](images/icons/wordpress.png) [xpinjection.com](http://xpinjection.com/)|
-|                     |![](images/icons/twitter.png) [@xpinjection](https://twitter.com/xpinjection)|
-|                     |![](images/icons/email.png) [mikalai.alimenkou@xpinjection.com](mailto:mikalai.alimenkou@xpinjection.com)|
+|Michael Libens     |![](images/icons/wordpress.png) [http://provize.dk/](http://provize.dk/)|
+|                     |![](images/icons/linkedin.png) [Michael Libens](https://www.linkedin.com/in/michaellibens/)|
+|                     |![](images/icons/twitter.png) [@libens_provize](https://twitter.com/libens_provize)|
+|                     |![](images/icons/email.png) [michael.loevstad.libens@arlafoods.com ](mailto:[michael.loevstad.libens@arlafoods.com )|
 |---------------------|-----|
-|Timofey Yevgrashyn   |![](images/icons/wordpress.png) [tim.com.ua](http://tim.com.ua)|
-|                     |![](images/icons/email.png) [tim@tim.com.ua](mailto:tim@tim.com.ua)|
-|                     |![](images/icons/facebook.png) [yevgrashyn](https://www.facebook.com/yevgrashyn)|
-|                     |![](images/icons/linkedin.png) [yevgrashyn](https://www.linkedin.com/in/yevgrashyn)|
+|René Kragh Pedersen     |![](images/icons/wordpress.png) [https://medium.com/@relic](https://medium.com/@relic)|
+|                     |![](images/icons/linkedin.png) [René Kragh Pedersen](https://www.linkedin.com/in/inspectandadapt/)|
+|                     |![](images/icons/email.png) [mail@relic.dk](mailto:[mail@relic.dk)|
 |---------------------|-----|
-|Vyacheslav Moskalenko|![](images/icons/wordpress.png) [luxoft.com/blog/vmoskalenko/](http://www.luxoft.com/blog/vmoskalenko/)|
-|                     |![](images/icons/linkedin.png) [slavamoskalenko](https://ua.linkedin.com/in/slavamoskalenko)|
-|                     |![](images/icons/facebook.png) [vyacheslav.moskalenko.3](https://www.facebook.com/vyacheslav.moskalenko.3)|
-|                     |![](images/icons/email.png) [javamv@gmail.com](mailto:javamv@gmail.com)|
-|---------------------|-----|
-|Andrii Dzynia        |![](images/icons/wordpress.png) [adzynia.com](http://adzynia.com)|
-|                     |![](images/icons/linkedin.png) [andriidzynia](https://www.linkedin.com/in/andriidzynia)|
-|                     |![](images/icons/twitter.png) [@adzynia](https://twitter.com/adzynia)|
-|---------------------|-----|
-|Svetlana Mukhina     |![](images/icons/linkedin.png) [svetlanamukhina](https://ua.linkedin.com/in/svetlanamukhina)|
-|---------------------|-----|
-|Sergey Prokhorenko   |![](images/icons/linkedin.png) [sergeyprokhorenko](https://www.linkedin.com/in/sergeyprokhorenko)|
-|---------------------|-----|
-|Nataliya Trenina     |![](images/icons/linkedin.png) [natatara](https://ua.linkedin.com/in/natatara)|
-|                     |![](images/icons/wordpress.png) [ScrumAlliance profile](https://www.scrumalliance.org/community/profile/ntrenina)|
-|                     |![](images/icons/facebook.png) [natatara](https://www.facebook.com/natatara)|
-|                     |![](images/icons/email.png) [trenina@scrumguides.com](mailto:trenina@scrumguides.com)|
-|                     |![](images/icons/wordpress.png) [SCRUMguides website](http://scrumguides.com.ua/)|
-|---------------------|-----|
-|Tatiana Lazebnyk     |![](images/icons/linkedin.png) [Tatiana Lazebnyk](https://www.linkedin.com/in/tatiana-lazebnyk-3a623b4a)|
-|---------------------|-----|
-|Dmitry Leader        |![](images/icons/facebook.png) [dmitry.leader](https://www.facebook.com/dmitry.leader)|
-|                     |![](images/icons/linkedin.png) [ahead](https://www.linkedin.com/in/ahead)|
+|Christina Find     |![](images/icons/wordpress.png) [http://christinafindconsulting.dk/](http://christinafindconsulting.dk/)|
+|                     |![](images/icons/linkedin.png) [Christina Find](https://www.linkedin.com/in/christina-find-9071a9/)|
+|                     |![](images/icons/email.png) [cf@cfind.dk ](mailto:[cf@cfind.dk)|
 |---------------------|-----|
 
 | |
