@@ -31,11 +31,6 @@ This list contains links to blogs, social media, etc of people from the book.
 |                     |![](images/icons/linkedin.png) [Lars Behn-Segall](https://www.linkedin.com/in/lars-behn-segall-3450422//)|
 |                     |![](images/icons/email.png) [lars@kreagil.dk](mailto:[lars@kreagil.dk)|
 |---------------------|-----|
-|Søren Weiss     |![](images/icons/wordpress.png) [http://www.sorenweiss.dk/](http://www.sorenweiss.dk/)|
-|                     |![](images/icons/linkedin.png) [Aino CorrySøren Weiss](https://www.linkedin.com/in/sorenweiss/)|
-|                     |![](images/icons/twitter.png) [@sorenweiss](https://twitter.com/sorenweiss)|
-|                     |![](images/icons/email.png) [swh@version1.biz](mailto:[swh@version1.biz)|
-|---------------------|-----|
 |Michael Libens     |![](images/icons/wordpress.png) [http://provize.dk/](http://provize.dk/)|
 |                     |![](images/icons/linkedin.png) [Michael Libens](https://www.linkedin.com/in/michaellibens/)|
 |                     |![](images/icons/twitter.png) [@libens_provize](https://twitter.com/libens_provize)|
