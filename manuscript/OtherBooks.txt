@@ -1,20 +1,21 @@
-#”Who is” series and this book story {#OtherBooks}
+# ”Who is” series and this book story {#OtherBooks}
 
 {float=right}
 ![Who is agile](images/WhoIsAgileBookCover.jpg)
 
 After the growing success of the global [“Who is agile?”](https://leanpub.com/WhoIsAgile) book, it has been decided to go for local country editions. This book is an example of such edition and is not the only one.
 
-
-
-
-
 Already published local country versions, apart from this one:
 
-* [“Who is agile in South Africa?”](https://leanpub.com/WhoisagileSouthAfrica) Local team: Samantha Laing and Karen Greaves.
 * [“Who is agile in Australia & New Zealand?”](https://leanpub.com/whoisagileAustralia) Local team: Sunish Chabba, Venkatesh Krishnamurthy, and Renee Troughton.
 * [“Who is agile in India”](https://leanpub.com/whoisagileinindia) Local team: Sunish Chabba and Tushar Somaiya.
+* [“Who is agile in Nigeria”](https://leanpub.com/WhoIsAgileInNigeria) Local team: Chinyere Oranugo, Emmanuel Umoke, Nnamdi C, Dorcas Sina-Olulana, Bassey Bassey, Kosisochukwu H Abone, OGHENETEJIRI OKPALEFE and Blessing Shelika.
+* [“Who is agile in Ukraine?”](https://leanpub.com/WhoisagileinUkraine) Local team: Kirill Klimov.
+* [“Who is agile in Singapore?”](https://leanpub.com/whoisagileinsingapore) Local team: Kirill Klimov.
+* [“Who is agile in South Africa?”](https://leanpub.com/WhoisagileSouthAfrica) Local team: Bevan Williams, Yogini Moodley, Nkululeko Masondo, Nilesh Makan, Samantha Laing, Karen Greaves, and Suwilo
 
-There are also some number of other local country editions in the pipeline. Hopefully, they will be public soon.
+
+There is now also the video edition, that can be found on [YouTube](https://bit.ly/WhoIsagile)
 
 Do you like this book? Do you have some time available? Would you like to create a version for your community? Please, get in touch with [Yves](mailto:WhoIs@hanoulle.be).
+
