@@ -55,18 +55,14 @@ Toyota Kata Culture: Building Organizational Capability and Mindset through Kata
 **What question do you think I should also ask and what is the answer?**
 
 Question. Why are so many Agile Coaches full of themselves?
-Answer: Because they think they stumbled on the holy grail and the rest of the world is soooooooooo far behind.
-Sadly we will wake up one day to realize that the rest of the world passed us in the fast lane if we do not keep challenging ourselves and the assumptions behind the practices and principles we use.
-There will be a time where organizations are no longer battling “traditional waterfall/stage gate” to stay ahead but “traditional Agile”	
+Answer: Because they think they stumbled on the holy grail and the rest of the world is soooooooooo far behind. Sadly we will wake up one day to realize that the rest of the world passed us in the fast lane if we do not keep challenging ourselves and the assumptions behind the practices and principles we use. There will be a time where organizations are no longer battling “traditional waterfall/stage gate” to stay ahead but “traditional Agile”	
 |  |
 
 
 
 **How would you like the agile community in Denmark to evolve?**
 
-Less religion and more openness to other fields of knowledge.
-Less copying and more evolving new ideas and principles.
-Maybe even the guts to challenge some parts of Agile :-)
+Less religion and more openness to other fields of knowledge. Less copying and more evolving new ideas and principles. Maybe even the guts to challenge some parts of Agile :-)
 
 
 
@@ -80,8 +76,7 @@ Keeping it fun and motivating for everybody to go to work everyday - in a fast p
 
 **Whom do you think we should ask next?**
 
-Lars Behn-Segall from Bankdata comes to mind.
-He should be able to write some much cooler answers to the questions above.
+Lars Behn-Segall from Bankdata comes to mind. He should be able to write some much cooler answers to the questions above.
 
 |  |
 
