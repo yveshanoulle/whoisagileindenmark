@@ -44,7 +44,7 @@ This list contains links to blogs, social media, etc of people from the book.
 |                     |![](images/icons/linkedin.png) [Christina Find](https://www.linkedin.com/in/christina-find-9071a9/)|
 |                     |![](images/icons/email.png) [cf@cfind.dk ](mailto:[cf@cfind.dk)|
 |---------------------|-----|
-|Luxshan Ratnaravi    |![](images/icons/linkedin.png) [Christina Find](https://www.linkedin.com/in/luxshan/)|
+|Luxshan Ratnaravi    |![](images/icons/linkedin.png) [Luxshan Ratnaravi](https://www.linkedin.com/in/luxshan/)|
 |                     |![](images/icons/email.png) [luxshan1@gmail.com ](mailto:[luxshan1@gmail.com)|
 |---------------------|-----|
 
